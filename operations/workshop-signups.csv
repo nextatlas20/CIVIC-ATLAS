@@ -1,0 +1,14 @@
+registration_id,workshop,session_date,slot,revision,state,volunteer,room
+REG-104, Lantern Making ,2033-04-03,afternoon,1,confirmed, Mira Chen ,Studio 2
+REG-104,Lantern Making,2033-04-03,afternoon,2,waitlisted,Mira Chen,Studio 2
+REG-207,Seed Saving,2033-04-01,morning,4,confirmed, Omar Ruiz,Greenhouse
+REG-207,Seed Saving,2033-04-01,morning,4,waitlisted,Omar Ruiz,Greenhouse
+REG-318,Map Reading,2033-04-12,evening,1,cancelled,Leah Park,Room 7
+REG-411,Clay Repair,2033-04-12,morning,3,no_show,Jon Bell,Studio 1
+REG-522,Oral History,2033-04-18,afternoon,2,confirmed,Nia Ford,Archive
+REG-633,Street Trees,2033-04-18,evening,1,waitlisted,Theo Grant,Room 4
+REG-744,Invalid,2033-05-01,morning,1,confirmed,Someone,Room 9
+REG-855,Paper Folding,2033-04-05,night,1,confirmed,Ada Vale,Room 3
+REG-966,Repair Cafe,2033-04-22,morning,0,confirmed,Kim Lee,Room 5
+REG-177,  Zine Lab  ,2033-04-22,afternoon,5,confirmed,  Priya Shah , Room 6 
+REG-288,Seed Saving,2033-04-25,afternoon,1,confirmed,Omar Ruiz,Greenhouse
